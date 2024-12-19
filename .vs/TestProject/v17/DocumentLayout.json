@@ -7,20 +7,28 @@
       "RelativeMoniker": "D:0:0:{E4CAFF42-762D-4CBA-8D25-BACB7B536570}|TestProject\\TestProject.csproj|solutionrelative:testproject\\models\\recipestructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4CAFF42-762D-4CBA-8D25-BACB7B536570}|TestProject\\TestProject.csproj|c:\\users\\andre\\source\\repos\\testproject\\testproject\\controllers\\migrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4CAFF42-762D-4CBA-8D25-BACB7B536570}|TestProject\\TestProject.csproj|solutionrelative:testproject\\controllers\\migrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4CAFF42-762D-4CBA-8D25-BACB7B536570}|TestProject\\TestProject.csproj|c:\\users\\andre\\source\\repos\\testproject\\testproject\\models\\componenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CAFF42-762D-4CBA-8D25-BACB7B536570}|TestProject\\TestProject.csproj|solutionrelative:testproject\\models\\componenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CAFF42-762D-4CBA-8D25-BACB7B536570}|TestProject\\TestProject.csproj|c:\\users\\andre\\source\\repos\\testproject\\testproject\\models\\recipetimeset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CAFF42-762D-4CBA-8D25-BACB7B536570}|TestProject\\TestProject.csproj|solutionrelative:testproject\\models\\recipetimeset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CAFF42-762D-4CBA-8D25-BACB7B536570}|TestProject\\TestProject.csproj|c:\\users\\andre\\source\\repos\\testproject\\testproject\\models\\recipemixerset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CAFF42-762D-4CBA-8D25-BACB7B536570}|TestProject\\TestProject.csproj|solutionrelative:testproject\\models\\recipemixerset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CAFF42-762D-4CBA-8D25-BACB7B536570}|TestProject\\TestProject.csproj|c:\\users\\andre\\source\\repos\\testproject\\testproject\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CAFF42-762D-4CBA-8D25-BACB7B536570}|TestProject\\TestProject.csproj|solutionrelative:testproject\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CAFF42-762D-4CBA-8D25-BACB7B536570}|TestProject\\TestProject.csproj|c:\\users\\andre\\source\\repos\\testproject\\testproject\\models\\uploadmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CAFF42-762D-4CBA-8D25-BACB7B536570}|TestProject\\TestProject.csproj|solutionrelative:testproject\\models\\uploadmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4CAFF42-762D-4CBA-8D25-BACB7B536570}|TestProject\\TestProject.csproj|c:\\users\\andre\\source\\repos\\testproject\\testproject\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4CAFF42-762D-4CBA-8D25-BACB7B536570}|TestProject\\TestProject.csproj|solutionrelative:testproject\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4CAFF42-762D-4CBA-8D25-BACB7B536570}|TestProject\\TestProject.csproj|c:\\users\\andre\\source\\repos\\testproject\\testproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4CAFF42-762D-4CBA-8D25-BACB7B536570}|TestProject\\TestProject.csproj|solutionrelative:testproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4CAFF42-762D-4CBA-8D25-BACB7B536570}|TestProject\\TestProject.csproj|c:\\users\\andre\\source\\repos\\testproject\\testproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E4CAFF42-762D-4CBA-8D25-BACB7B536570}|TestProject\\TestProject.csproj|solutionrelative:testproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,58 +38,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MigrationController.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\TestProject\\TestProject\\Controllers\\MigrationController.cs",
-              "RelativeDocumentMoniker": "TestProject\\Controllers\\MigrationController.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\TestProject\\TestProject\\Controllers\\MigrationController.cs",
-              "RelativeToolTip": "TestProject\\Controllers\\MigrationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T22:32:45.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\TestProject\\TestProject\\Program.cs",
-              "RelativeDocumentMoniker": "TestProject\\Program.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\TestProject\\TestProject\\Program.cs",
-              "RelativeToolTip": "TestProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T22:06:26.584Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\TestProject\\TestProject\\appsettings.json",
-              "RelativeDocumentMoniker": "TestProject\\appsettings.json",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\TestProject\\TestProject\\appsettings.json",
-              "RelativeToolTip": "TestProject\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-17T21:58:23.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DatabaseContext.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\TestProject\\TestProject\\Data\\DatabaseContext.cs",
-              "RelativeDocumentMoniker": "TestProject\\Data\\DatabaseContext.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\TestProject\\TestProject\\Data\\DatabaseContext.cs",
-              "RelativeToolTip": "TestProject\\Data\\DatabaseContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "RecipeTimeSet.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\TestProject\\TestProject\\Models\\RecipeTimeSet.cs",
+              "RelativeDocumentMoniker": "TestProject\\Models\\RecipeTimeSet.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\TestProject\\TestProject\\Models\\RecipeTimeSet.cs",
+              "RelativeToolTip": "TestProject\\Models\\RecipeTimeSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T21:56:07.065Z",
+              "WhenOpened": "2024-12-18T23:34:13.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComponentType.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\TestProject\\TestProject\\Models\\ComponentType.cs",
+              "RelativeDocumentMoniker": "TestProject\\Models\\ComponentType.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\TestProject\\TestProject\\Models\\ComponentType.cs",
+              "RelativeToolTip": "TestProject\\Models\\ComponentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:45:41.414Z",
               "EditorCaption": ""
             },
             {
@@ -92,9 +74,61 @@
               "RelativeDocumentMoniker": "TestProject\\Models\\RecipeStructure.cs",
               "ToolTip": "C:\\Users\\andre\\source\\repos\\TestProject\\TestProject\\Models\\RecipeStructure.cs",
               "RelativeToolTip": "TestProject\\Models\\RecipeStructure.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T21:53:06.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecipeMixerSet.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\TestProject\\TestProject\\Models\\RecipeMixerSet.cs",
+              "RelativeDocumentMoniker": "TestProject\\Models\\RecipeMixerSet.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\TestProject\\TestProject\\Models\\RecipeMixerSet.cs",
+              "RelativeToolTip": "TestProject\\Models\\RecipeMixerSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:56:06.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\TestProject\\TestProject\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "TestProject\\Models\\Recipe.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\TestProject\\TestProject\\Models\\Recipe.cs",
+              "RelativeToolTip": "TestProject\\Models\\Recipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:52:57.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UploadMode.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\TestProject\\TestProject\\Models\\UploadMode.cs",
+              "RelativeDocumentMoniker": "TestProject\\Models\\UploadMode.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\TestProject\\TestProject\\Models\\UploadMode.cs",
+              "RelativeToolTip": "TestProject\\Models\\UploadMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:57:50.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\TestProject\\TestProject\\Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "TestProject\\Data\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\TestProject\\TestProject\\Data\\DatabaseContext.cs",
+              "RelativeToolTip": "TestProject\\Data\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:56:07.065Z",
               "EditorCaption": ""
             }
           ]
