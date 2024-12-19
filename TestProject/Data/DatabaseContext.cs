@@ -7,7 +7,7 @@ namespace TestProject.Data
     {
         public DatabaseContext(DbContextOptions<DatabaseContext> options) : base(options) 
         {
-            Database.EnsureCreated();
+            //Database.EnsureCreated();
         }
 
         public DbSet<Recipe> Recipes { get; set; }

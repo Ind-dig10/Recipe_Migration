@@ -12,8 +12,8 @@ namespace TestProject
             // Add services to the container.
             builder.Services.AddDbContext<DatabaseContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("SourceDb")), ServiceLifetime.Transient);
-            builder.Services.AddDbContext<DatabaseContext>(options =>
-                options.UseSqlServer(builder.Configuration.GetConnectionString("TargetDb")), ServiceLifetime.Transient);
+           // builder.Services.AddDbContext<DatabaseContext>(options =>
+              //  options.UseSqlServer(builder.Configuration.GetConnectionString("TargetDb")), ServiceLifetime.Transient);
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

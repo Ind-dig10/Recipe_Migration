@@ -51,9 +51,8 @@ namespace TestProject.Controllers
             {
                 Name = sourceRecipe.Name,
                 DateModified = sourceRecipe.DateModified,
-                MixerSetId = sourceRecipe.MixerSetId,
-                TimeSetId = sourceRecipe.TimeSetId,
-                WaterCorrect = sourceRecipe.WaterCorrect
+                RecipeMixerSetId = sourceRecipe.RecipeMixerSetId,
+                RecipeTimeSetId = sourceRecipe.RecipeTimeSetId,
             };
         }
     }
