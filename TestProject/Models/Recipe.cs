@@ -9,7 +9,5 @@
         public RecipeMixerSet RecipeMixerSet { get; set; }
         public int? RecipeTimeSetId { get; set; }
         public RecipeTimeSet RecipeTimeSet { get; set; }
-        //public float? WaterCorrect { get; set; }
-        //public int? ConsistencyId { get; set; }
     }
 }
